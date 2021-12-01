@@ -1,0 +1,10 @@
+﻿type,have_enough_time,sea_food,spicy,day
+fast_food,FALSE,FALSE,TRUE,Thu
+fast_food,FALSE,FALSE,FALSE,Mon
+fast_food,FALSE,FALSE,FALSE,Fri
+Japanese,TRUE,TRUE,FALSE,Tue
+Japanese,TRUE,TRUE,TRUE,Wed
+Japanese,FALSE,FALSE,TRUE,Wed
+Chinese,TRUE,FALSE,TRUE,Mon
+Chinese,TRUE,FALSE,TRUE,Fri
+Chinese,TRUE,TRUE,FALSE,Thu
